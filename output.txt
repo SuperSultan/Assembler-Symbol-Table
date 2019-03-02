@@ -1,0 +1,26 @@
+C:\Users\Afnan\venv\Scripts\python.exe C:/Users/Afnan/Documents/COP3601/proj1/p1.py
+Input is being redirected from C:\Users\Afnan\Documents\COP3601\proj1\input.txt
+Storing eno 55
+   Stored at 22
+Found eno 55 at location 22
+Storing one 20
+Collision at index 22
+   Stored at 23
+Found one 20 at location 23
+Storing one 33333
+Collision at index 22
+Error:  one already exists at 23
+Storing fred 20
+   Stored at 17
+Found fred 20 at location 17
+Error: moss not found
+Storing moss 18
+   Stored at 50
+Found moss 18 at location 50
+Found one 20 at location 23
+Storing eno 22
+Error:  eno already exists at 22
+Found eno 55 at location 22
+Error: dip not found
+
+Process finished with exit code 0
